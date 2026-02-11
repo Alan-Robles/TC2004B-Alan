@@ -1,0 +1,25 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Alan Robles Gracia
+Matrícula: A0841816
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Este curso me interesa porque es el primero exclusivamente de la carrera. Si bien he tenido algunos acercamientos 
+como lo fue el tópico de exploración de análisis de datos (distinto de análisis de ciencia de datos), o el bloque
+estadística del semestre pasado, me emociona el hecho de empezar "oficialemente" con mi carrera
+
+¿Qué espero aprender?
+Sinceramente no estoy muy familiarizado con los contenidos de forma específica, pero personalmente me gustaría aprendar 
+y asentar las bases del análisis de datos, que más allá del contenido técnico, incluyen interpretaciones y comunicación.
+
+Herramientas que ya conozco:
+- Python
+- Rstudio
+- Quarto
+- Latex
+
+Herramientas nuevas para mí:
+- Github
+- Terminal (maniuplar archivos)
