@@ -1,8 +1,8 @@
 # TC2004B - Análisis de Ciencia de Datos
 
-**Nombre:** Alan Robles Gracia 
-**Matrícula:** A00841816 
-**Semestre:** Febrero-Junio 2026
+-**Nombre:** Alan Robles Gracia 
+-**Matrícula:** A00841816 
+-**Semestre:** Febrero-Junio 2026
 
 ## Descripción
 
