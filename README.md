@@ -86,3 +86,37 @@ deactivate
 **ModuleNotFoundError**
 - Verifica que el ambiente esté activo
 - Reinstala dependencias: `pip install -r requirements.txt`
+
+Versiones utilizadas
+
+El proyecto fue probado y ejecutado localmente con las siguientes versiones:
+
+Python: 3.12.2
+
+pip: 26.0.1
+
+Sistema: macOS
+
+Ambiente virtual: venv (tc2004b_env)
+
+Librerías principales
+
+numpy 2.4.2
+
+pandas 3.0.0
+
+matplotlib 3.10.8
+
+seaborn 0.13.2
+
+scikit-learn 1.8.0
+
+scipy 1.17.0
+
+jupyter 1.1.1
+
+notebook 7.5.3
+
+ipykernel 7.2.0
+
+Las versiones completas y exactas de todas las dependencias están documentadas en el archivo requirements.txt
